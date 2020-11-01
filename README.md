@@ -3,6 +3,11 @@
 3 observable trends
 Most of the players are male. They make up 84% of the population. In addition, the biggest percentage of players fall in the age rnge of 20-24. This group makes up about 44.79% of the gaming community for this game. Since this group makes up a big percentage of the population they make up a big part of our profits. They had a total purchase value of $1,114.06. However, the 35-39 year olds spend more on average and have an average purchase price of $3.60.
 
+
+
+
+Your final report should include each of the following:
+
 Player Count
 
 Total Number of Players
